@@ -1,5 +1,3 @@
--- example config.lua
-
 num_bodies = 3
 num_frames = 310
 
